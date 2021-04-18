@@ -16,6 +16,8 @@ WebGL, Shaders, eco-conception
 
 ### 📫 Where to reach me ?
 Linkedin - [Alexis Sejourné](https://www.linkedin.com/in/alexis-sejourne)
+
+Always there to hear about great new projects ! (and music)
 <!--
 **Ahlecss/Ahlecss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
