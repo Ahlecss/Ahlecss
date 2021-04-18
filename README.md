@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I'm Alexis !
 
 
-I'm Alexis, currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@LaBourseAuxLivres](https://www.labourseauxlivres.fr) in Paris.
+Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@LaBourseAuxLivres](https://www.labourseauxlivres.fr) in Paris.
 
 Former dev from [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com)
 
