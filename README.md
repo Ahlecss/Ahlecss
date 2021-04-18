@@ -7,7 +7,7 @@ Former dev from [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com
 
 Some tools that I like working with : Angular, React, Vue, SASS, GSAP, Node, Three, P5, Storybook, Typescript, Figma
 
-### 🔭 ### I’m currently working on  
+### 🔭 I’m currently working on  
 Remove all forms of plastic in the world.
 oh and a new Folio.
 
