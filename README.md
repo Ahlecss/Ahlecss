@@ -3,7 +3,7 @@
 
 Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@LaBourseAuxLivres](https://www.labourseauxlivres.fr) in Paris.
 
-Former dev from [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com)
+Former Front dev at [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com)
 
 Some tools that I like working with : Angular, React, Vue, SASS, GSAP, Node, Three, P5, Storybook, Typescript, Figma
 
