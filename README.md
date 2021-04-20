@@ -5,7 +5,7 @@ Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@L
 
 Former Front dev at [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com)
 
-Some tools that I like working with : Angular, React, Vue, SASS, GSAP, Node, Three, P5, Storybook, Typescript, Figma
+Some tools that I like working with : Angular, React, Vue, SASS, GSAP, Node, Three, P5, Storybook, Typescript, Ionic, Figma
 
 ### 🔭 I’m currently working on  
 Remove all forms of plastic in the world.
