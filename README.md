@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm Alexis !
 
 
-Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@LaBourseAuxLivres](https://www.labourseauxlivres.fr) in Paris.
+Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@hands] (https://www.hands.agency) in Paris.
 
-Former Front dev at [@Biig](https://www.biig.com) and [@Ekino](https://www.ekino.com)
+Former Front dev at [@Biig](https://www.biig.com), [@Ekino](https://www.ekino.com) and [@LaBourseAuxLivres](https://www.labourseauxlivres.fr)
 
 Some tools that I like working with : Angular, React, Vue, SASS, GSAP, Node, Three, P5, Storybook, Typescript, Ionic, Figma
 
