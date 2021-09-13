@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Alexis !
 
 
-Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@hands] (https://www.hands.agency) in Paris.
+Currently student at [@Gobelins](http://gobelins.fr/) and Creative Developer [@hands](https://www.hands.agency) in Paris.
 
 Former Front dev at [@Biig](https://www.biig.com), [@Ekino](https://www.ekino.com) and [@LaBourseAuxLivres](https://www.labourseauxlivres.fr)
 
